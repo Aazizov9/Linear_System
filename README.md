@@ -53,7 +53,8 @@
 
 Использование программы:
 
-Usage: lss [input_file_name]  [output_file_name] [options]\n"
+Usage: 
+lss [input_file_name] [output_file_name] [options]\n"
 
         "Where options include:\n"
         "  -d        print debug messages [default OFF]\n"
